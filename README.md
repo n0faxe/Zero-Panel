@@ -29,9 +29,15 @@ Data & keamanan
 - data/license.json menyimpan key aktif. Jangan dibagikan.
 - Quick login menyimpan username + password di browser localStorage.
 - Panel hanya listen di 127.0.0.1. Jangan ubah ke 0.0.0.0 tanpa autentikasi.
-- app.cjs sudah di-minify + di-obfuscate. Source panel tidak disertakan.
 
- Lisensi
+Feature
+---------------
+- Auto Levelling
+- Auto Exam
+- Auto Battle Event
+- Auto Eudemon
+
+Lisensi
 --------
 Folder ini membawa binary Node.js. Sertakan LICENSE Node.js saat
 mendistribusikan ulang. Panel ini bukan produk resmi Ninja Zero / Ninja Saga.
