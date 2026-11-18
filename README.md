@@ -1,4 +1,4 @@
-Ninja Zero Panel 1.0.0 - Portable
+Ninja Zero Panel 1.0.1 - Portable
 =====================================
 
 Cara menjalankan
@@ -34,7 +34,6 @@ Feature
 ---------------
 - Auto Levelling
 - Auto Exam
-- Auto Battle Event
 - Auto Eudemon
 
 Lisensi
